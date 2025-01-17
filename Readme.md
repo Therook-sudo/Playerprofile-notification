@@ -51,8 +51,8 @@ game-day-notifications/
 
 ### **Clone the Repository**
 ```bash
-git 
-cd 
+git https://github.com/Therook-sudo/Playerprofile-notification
+cd playerprofile-notification
 ```
 
 ### **Create an SNS Topic**
